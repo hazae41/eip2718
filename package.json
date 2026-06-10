@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@hazae41/eip2718",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "EIP-2718 transactions for the web",
   "repository": "github:hazae41/eip2718",
   "author": "hazae41",
