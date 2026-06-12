@@ -1,4 +1,4 @@
-# EIP-2718
+# EIP-2718: Typed Transaction Envelope
 
 EIP-2718 transactions for the web
 
